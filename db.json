@@ -17,10 +17,6 @@
       "id": 45
     },
     {
-      "name": "Jerald Heller",
-      "id": 46
-    },
-    {
       "name": "Sheryl Hammes",
       "id": 47
     },
@@ -39,8 +35,132 @@
     {
       "name": "Dr. Seth Schimmel",
       "id": 51
+    },
+    {
+      "name": "Mrs. Wilfred Bradtke",
+      "id": 52
+    },
+    {
+      "name": "Emanuel Johnston",
+      "id": 53
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 545,
+      "title": "voluptatem",
+      "user_id": 38
+    },
+    {
+      "title": "Intelligent Concrete Sausages",
+      "userId": 47,
+      "id": 557
+    },
+    {
+      "title": "Elegant Wooden Towels",
+      "userId": 39,
+      "id": 563
+    },
+    {
+      "title": "Bespoke Wooden Chips",
+      "userId": 47,
+      "id": 564
+    },
+    {
+      "title": "Handcrafted Wooden Tuna",
+      "userId": 47,
+      "id": 565
+    },
+    {
+      "title": "Modern Concrete Computer",
+      "userId": 48,
+      "id": 566
+    },
+    {
+      "title": "Sleek Frozen Chips",
+      "userId": 38,
+      "id": 571
+    },
+    {
+      "title": "Handcrafted Cotton Shoes",
+      "userId": 38,
+      "id": 573
+    },
+    {
+      "title": "Refined Frozen Hat",
+      "userId": 39,
+      "id": 574
+    },
+    {
+      "title": "Intelligent Soft Shoes",
+      "userId": 39,
+      "id": 575
+    },
+    {
+      "title": "Luxurious Soft Pants",
+      "userId": 39,
+      "id": 576
+    },
+    {
+      "title": "Handcrafted Soft Pants",
+      "userId": 39,
+      "id": 577
+    },
+    {
+      "title": "Gorgeous Cotton Pizza",
+      "userId": 50,
+      "id": 578
+    },
+    {
+      "title": "Licensed Rubber Mouse",
+      "userId": 50,
+      "id": 581
+    },
+    {
+      "title": "Luxurious Metal Tuna",
+      "userId": 45,
+      "id": 583
+    },
+    {
+      "title": "Intelligent Cotton Sausages",
+      "userId": 45,
+      "id": 584
+    },
+    {
+      "title": "Generic Cotton Salad",
+      "userId": 48,
+      "id": 585
+    },
+    {
+      "title": "Electronic Concrete Shoes",
+      "userId": 49,
+      "id": 586
+    },
+    {
+      "title": "Incredible Cotton Pants",
+      "userId": 53,
+      "id": 587
+    },
+    {
+      "title": "Fantastic Plastic Bacon",
+      "userId": 52,
+      "id": 588
+    },
+    {
+      "title": "Small Rubber Fish",
+      "userId": 48,
+      "id": 594
+    },
+    {
+      "title": "Modern Wooden Car",
+      "userId": 38,
+      "id": 603
+    },
+    {
+      "title": "Intelligent Frozen Chicken",
+      "userId": 38,
+      "id": 604
+    }
+  ],
   "photos": []
 }
